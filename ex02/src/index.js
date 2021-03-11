@@ -1,9 +1,9 @@
-function main() {
+function main() { // This is a single line comment
     // Only change code below this line
-//console.log('Hello world!'); single line comment
+console.log('Hello world!'); 
     // Only change code above this line
 }
-/*main();
+/*main(); This is a multi-line comment!
 
-module.exports = main; multi-line comment
+module.exports = main; This is a multi-line comment!
 */
